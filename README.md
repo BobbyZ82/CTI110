@@ -1,2 +1,2 @@
-# CTI110
+# CTI 110
 Code repository for CTI110
